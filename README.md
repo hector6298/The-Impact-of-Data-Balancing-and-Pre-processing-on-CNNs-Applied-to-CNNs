@@ -7,7 +7,6 @@ Sample of images before after edge sharpening:
 <img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/before.png" width="250">
 <img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/after.png" width="250">
 
-
 This work utilizes Xception Neural network composed of 14 blocks of separable convolutions like so:
 
 ![xception block](https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/XceptionModule.png)
