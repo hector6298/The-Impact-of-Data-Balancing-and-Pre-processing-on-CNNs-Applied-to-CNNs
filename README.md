@@ -3,6 +3,7 @@ Short sample code of data loading, processing, neural network training and testi
 The study makes use of 5 fold cross validation, not present in this code.
 
 Sample of images before after edge sharpening:
+
 <img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/before.png" width="250">
 <img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/after.png" width="250">
 
@@ -22,9 +23,6 @@ Results of ROC curves for all four experiments, respectively:
 ![roc4](https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/ROC_RNB_1.png)
 ![roc3](https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/ROC_RB_1.png)
 ![roc2](https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/ROC_IENB_1.png)
-
-Proposed method:
-
 ![roc1](https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/ROC_IEB_1.png)
 
 More details on sample paper inside assets folder.
