@@ -3,9 +3,9 @@ Short sample code of data loading, processing, neural network training and testi
 The study makes use of 5 fold cross validation, not present in this code.
 
 Sample of images before after edge sharpening:
-<img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/before.png" width="100">
+<img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/before.png" width="250">
+<img src="https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/after.png" width="250">
 
-![image after](https://github.com/hector6298/The-Impact-of-Data-Balancing-and-Pre-processing-on-CNNs-Applied-to-CNNs/blob/master/assets/after.png | width=100)
 
 This work utilizes Xception Neural network composed of 14 blocks of separable convolutions like so:
 
